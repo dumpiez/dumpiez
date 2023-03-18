@@ -1,8 +1,8 @@
 # <p align="center">Hey 👋</p>
 <p align="center">
   Currently derusting on programming after a 6 months break so my code will probably be bad (it has always been bad)<br>
-  Skills: Java, Go 🪀<br>
-  Currently learning: JavaScript(NodeJS), Java 🪨<br> 
+  Skills: i dont have any :( 🪀<br>
+  Currently learning: Lua, probably 🪨<br> 
   Current goals: Learn Flutter, React, Mobile Development 💥<br>
   contacts: sekaii.v2@gmail.com 📫<br><br> 
   my computer has 2nd generation intel cpu pls help
