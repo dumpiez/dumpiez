@@ -1,6 +1,6 @@
 # <p align="center">Hey 👋</p>
 <p align="center">
-  Currently derusting on programming after a 6 months break so my code will probably be bad (it has always been bad)<br>
+  Currently taking a break (again) due to my computer being really bad<br>
   Skills: i dont have any :( 🪀<br>
   Currently learning: Lua, probably 🪨<br> 
   Current goals: Learn Flutter, React, Mobile Development 💥<br>
