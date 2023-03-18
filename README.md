@@ -1,6 +1,7 @@
 # <p align="center">Hey 👋</p>
 <p align="center">
   I have lots of names. The most used ones are; Piez, NightlyPie, and Telekai<br>
+  Former Linux Enthusiast n Elitist 🐧<br>
   Currently taking a break (again) due to my computer being really bad<br>
   Skills: i dont have any :( 🪀<br>
   Currently learning: Lua, probably 🪨<br> 
