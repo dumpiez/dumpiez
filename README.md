@@ -3,7 +3,7 @@
   I have lots of names. The most used ones are; Piez, NightlyPie, and Telekai<br>
   Former Linux Enthusiast n Elitist 🐧<br>
   GitHub Codespaces/GitPod user. Reasons below 🎸<br>
-  Current goals: Learn Java, Go, React 💥<br>
+  Current goals: Learn Java, Rust, React 💥<br>
   contacts: sekaii.v2@gmail.com 📫<br><br> 
   my computer has 2nd generation intel cpu pls help<br>
   if inactive probably playing guitar<br>
