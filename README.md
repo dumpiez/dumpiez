@@ -6,7 +6,7 @@
   Current goals: Learn Java, Rust, React 💥<br>
   contacts: sekaii.v2@gmail.com 📫<br><br> 
   my computer has 2nd generation intel cpu pls help<br>
-  if inactive probably playing guitar<br>
+  Right now focusing on Learning Rust 🦀<br>
 </p>
 
 ---
