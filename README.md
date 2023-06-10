@@ -1,6 +1,6 @@
 # <p align="center">Hey 👋</p>
 <p align="center">
-  I have lots of names. The most used ones are; Piez, NightlyPie, and Telekai<br>
+  I have lots of names. The most used ones are; Plushie, and Piez<br>
   Former Linux Enthusiast n Elitist 🐧<br>
   GitHub Codespaces/GitPod user. Reasons below 🎸<br>
   Current goals: Learn Java, Rust, React 💥<br>
