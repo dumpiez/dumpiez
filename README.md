@@ -4,7 +4,7 @@
   Former Linux Enthusiast n Elitist 🐧<br>
   GitHub Codespaces/GitPod user. Reasons below 🎸<br>
   Current goals: Learn Java, Rust, React 💥<br>
-  contacts: sekaii.v2@gmail.com 📫<br><br> 
+  contacts: sekaiiv1@gmail.com 📫<br><br> 
   my computer has 2nd generation intel cpu pls help<br>
   <s>Right now focusing on Learning Rust 🦀</s><br>
   nvm. finishing cs50 first<br>
