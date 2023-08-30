@@ -1,13 +1,11 @@
 # <p align="center">Hey 👋</p>
 <p align="center">
-  I have lots of names. The most used ones are; NightlyPie, Rei, and Piez<br>
+  I have lots of names. The most used ones are; NightlyPie, Lunar, and Piez<br>
   Former Linux Enthusiast n Elitist 🐧<br>
-  GitHub Codespaces/GitPod user. Reasons below 🎸<br>
-  Current goals: Learn Java, Rust, React 💥<br>
+  Current goals: Learn theories 💥<br>
   contacts: sekaiiv1@gmail.com 📫<br><br> 
   my computer has 2nd generation intel cpu pls help<br>
-  <s>Right now focusing on Learning Rust 🦀</s><br>
-  nvm. finishing cs50 first<br>
+  i spend more time configuring neovim than actually using it<br>
 </p>
 
 ---
