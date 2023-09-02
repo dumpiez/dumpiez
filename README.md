@@ -4,7 +4,7 @@
   Former Linux Enthusiast n Elitist 🐧<br>
   Current goals: Learn theories 💥<br>
   contacts: sekaiiv1@gmail.com 📫<br><br> 
-  my computer has 2nd generation intel cpu pls help<br>
+  MY LAPTOP BROKE DOWN AGAIN NOO<br>
   i spend more time configuring neovim than actually using it<br>
 </p>
 
