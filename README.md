@@ -11,6 +11,6 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/Telekaii/CrappySummon/assets/84755426/2d0be822-c7e5-4749-9226-e00e0b2b6822"><br>
+  <img src="https://github.com/user-attachments/assets/1d9e2d6f-b074-4c99-9066-1c499a4271cc" width="20%" height="50%" alt="i love my wife"><br>
 
 </p>
