@@ -8,5 +8,6 @@
   Contacts: sekaiiv1@gmail.com 📫<br>
   <br>
   currently using an intel celeron laptop (i know) with vscode/neovim<br>
+  ive been mostly working on a roblox game, thats why there's not much activities in my github<br>
   <h3 align="center">don't expect good code!</h2><br>
 </p>
