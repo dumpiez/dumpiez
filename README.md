@@ -1,7 +1,7 @@
 # <p align="center">About Me</p>
 <p align="center">
   I'm Piez, and I'm a student from Indonesia trying to figure everything out.<br>
-  As a (to-be) Developer, I'm trying to focus on Frontend Development and C# (Game Dev, Windows) 💥<br>
+  As a (to-be) Developer, I'm trying to focus on primarily Game Development, with Frontend Development on the side. 💥<br>
   <br>
   Former Linux Enthusiast and Elitist 🐧<br>
   I'm taken, and so in-love with my girlfriend 🤍<br>
