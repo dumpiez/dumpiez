@@ -1,7 +1,7 @@
 <h1 align="center">About Me</h1>
 <p align="center">
   I'm Piez, and I'm a student from Indonesia trying to figure everything out.<br>
-  As a (to-be) Developer, I'm trying to focus on primarily Game Development, with Frontend Development on the side. 💥<br>
+  As a (to-be) Developer, I'm trying to focus primarily on Web Development, with Game Development as a side-hobby. 💥<br>
   <br>
   Former Linux Enthusiast and Elitist 🐧<br>
   I'm taken, and so in-love with my girlfriend 🤍<br>
