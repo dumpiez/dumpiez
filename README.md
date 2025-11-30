@@ -7,7 +7,7 @@
   I'm taken, and so in-love with my girlfriend 🤍<br>
   Contacts: nightlypie@gmail.com 📫<br>
   <br>
-  currently using an intel celeron laptop (i know) with vscode/neovim<br>
-  im doing a web dev bootcamp right now so get ready for the comeback arc fr<br>
+  currently using an intel celeron laptop (i know) with neovim; <a href="https://astronvim.com">astronvim</a><br>
+  okay nevermind the web dev bootcamp im now learning go wish me luck ahahahaa<br>
   <b>please do not expect good code from me</b>
 </p>
