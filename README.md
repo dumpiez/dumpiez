@@ -8,6 +8,6 @@
   Contacts: nightlypie@gmail.com 📫<br>
   <br>
   currently using an intel celeron laptop (i know) with neovim; <a href="https://astronvim.com">astronvim</a><br>
-  okay nevermind the web dev bootcamp im now learning go wish me luck ahahahaa<br>
+  nevermind about go, im actually doing web development now<br>
   <b>please do not expect good code from me</b>
 </p>
